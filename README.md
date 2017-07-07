@@ -6,6 +6,13 @@ Project Pygame: 1st Year University Game Project
 **Pygame Reborn:** Remake of Pygame as a personal side-project. This approach and hence the work in this directory has been abandoned in favour for using Gamemaker. 
 
 
+|          Pygame (Original)      |              Pygame (Remake)            |
+:--------------------------------:|:----------------------------------------:
+![](pygame/Extra/gameplay.gif)    |  ![](pygame_reborn/extra/gameplay.gif)  |
+-----------------------------------------------------------------------------
+
+
+
 Key Features
 ============
 - Implementation of a finite state machine for the protagonist's controls.
